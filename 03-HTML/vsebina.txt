@@ -1,10 +1,4 @@
-<!DOCTYPE html>
-<html>
-    <head>  
-        <meta charset="UTF-8">  
-        <title>ISO 3103 </title>
-     </head>
-     <body>ISO 3103
+ISO 3103
 
 The content of this page has been slightly adapted from the Wikipedia page on ISO 3103 https://en.wikipedia.org/wiki/ISO_3103
 
@@ -77,5 +71,4 @@ The protocol has been criticized for omitting any mention of prewarming the pot.
 
 Competing standards
 
-In 2003, the Royal Society of Chemistry published a press release entitled "How to make a Perfect Cup of Tea".</body> 
-</html>
+In 2003, the Royal Society of Chemistry published a press release entitled "How to make a Perfect Cup of Tea".
